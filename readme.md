@@ -2,4 +2,4 @@ intuito de trabalhar captura posso implementar o mailchip0ing ja tornando um mod
 .
 veja a pokedex com implementacao de designs
 
-[![Watch the video]()](https://youtu.be/rJoFKfNTEvQ)
+[![Watch the video](https://youtu.be/rJoFKfNTEvQ)](https://youtu.be/rJoFKfNTEvQ)
