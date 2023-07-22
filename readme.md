@@ -1,14 +1,19 @@
-<h2> Landind page para evento</h2>
-.
-<P>pagina de captura para evento de captacao de leads, simples para <b>demostracao</b>.</P>
+# Página de Captura
 
+Este é um projeto de página de captura que tem como objetivo capturar informações de contato de usuários interessados em receber atualizações, ofertas ou conteúdo exclusivo relacionado a um determinado tema.
 
-<h2> Mailchiping </h2>
-.
-<p>otima opcao de ferramenta enquanto nao tiver back-end pode se implementar mail chiping no projeto para cadastras dados iniciais do cliente para isso, retornamos os valores do mailchipping e fazemos uma campanha onde vai receber todos dados cadstrados do usuario no formulario, fazendo remarketing por email para anuncio de eventos por diversas fontes de trafego.</p>
+## Funcionalidades
 
+- Formulário de captura de informações de contato
+- Design responsivo para diferentes dispositivos
+- Integração com serviço de envio de e-mails, se aplicável
 
-<h2></h2>
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Frameworks e bibliotecas adicionais, se aplicável (por exemplo, Bootstrap, jQuery)
 
 
 https://github.com/Guilhermefonseca2021/paginaDEcaptura/assets/92196697/fe989a83-b867-4e2c-a2d8-ae5314913f33
